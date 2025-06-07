@@ -20,6 +20,9 @@
 		],
 		"fabric-datagen": [
 			"me.nvme.UltraModDataGenerator"
+		],
+		"client": [
+			"me.nvme.UltraModClient"
 		]
 	},
 	"mixins": [
